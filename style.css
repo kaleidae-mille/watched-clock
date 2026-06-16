@@ -1,0 +1,7 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; background: #0a0a0a; color: #e9eaf2; font-family: ui-sans-serif, system-ui, -apple-system, sans-serif; }
+main { max-width: 760px; margin: 0 auto; padding: 64px 24px; display: flex; flex-direction: column; gap: 48px; }
+.brand { font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: #8a8c99; margin-bottom: 8px; }
+h1 { font-size: 36px; letter-spacing: -0.01em; }
+#scene { background: #111114; border: 1px solid #1f1f26; border-radius: 14px; padding: 36px; min-height: 200px; display: grid; place-items: center; color: #8a8c99; }
+footer p { color: #8a8c99; font-size: 13px; }
